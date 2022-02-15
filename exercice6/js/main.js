@@ -1,0 +1,1 @@
+$("#text").html("Ceci est un <b>nouveau</b> contenu konexio !");
